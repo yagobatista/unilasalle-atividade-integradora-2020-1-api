@@ -3,3 +3,8 @@ djangorestframework==3.11.0
 django-cors-headers==3.4.0
 drf-flex-fields==0.8.5
 django-filter
+# prod
+gunicorn==20.0.4
+psycopg2==2.8.4
+whitenoise==5.0.1
+dj_database_url==0.5.0
